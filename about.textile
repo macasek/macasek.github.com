@@ -1,0 +1,12 @@
+---
+layout: master
+title: About Me
+---
+Pirate Ninja. I am a Ninja who dabbles in piracy.
+
+If you want to talk to me, share code or share bookmarks:
+
+* *Email*: macasek at gmail dot com
+* *Twitter*: "macasek":http://twitter.com/macasek
+* *Github*: "macasek":http://github.com/macasek
+* *Delicious*: "macasek":http://delicious.com/macasek
