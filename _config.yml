@@ -1,2 +1,13 @@
 pygments: true
 permalink: date
+title: "&lt;Insert Clever Title Here&gt;"
+params:
+  author: Michael Macasek
+  twitter: macasek
+  linkedin: macasek
+  feedburner: macasek
+  github: macasek
+  delicious: macasek
+  disqus: michaelmacaseksblog
+  email: macasek@gmail.com
+  email_username: macasek

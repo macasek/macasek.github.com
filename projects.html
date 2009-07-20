@@ -5,13 +5,13 @@ title: Projects
  
 <h2>Projects</h2>
  
-<p>I have a few of projects hosted on <a href='http://github.com/macasek' rel='me' target='_blank'>GitHub</a>. The list below is dynamically populated from all of my projects with the most popular ones appearing first.</p>
+<p>I have a few of projects hosted on <a href='http://github.com/{{ site.params.github }}' rel='me' target='_blank'>GitHub</a>. The list below is dynamically populated from all of my projects with the most popular ones appearing first.</p>
  
 <div id='github-projects' class='big'>
 </div>
  
 <script type="text/javascript" charset="utf-8">
-  $.githubUser('macasek', function(data) {
+  $.githubUser('{{ site.params.github }}', function(data) {
     $('#github-projects').html('');
     
     var repos = data.user.repositories;
