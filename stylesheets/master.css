@@ -119,17 +119,17 @@ span.date {
   float: left;
 }
 
-div.post {
+div.post, div.pub {
   margin-bottom: 2em;
 }
 
-.post h1 {
+.post h1, .pub h2 {
   margin-top: 0.2em;
 }
 
-.post { color: #333; }
+.post, .pub { color: #333; }
 
-.post h1 a {
+.post h1 a, .pub h2 a {
   text-decoration: none;
   clear: left;
   display: block;
@@ -140,7 +140,7 @@ div.post {
   font-weight: bold;
 }
 
-.post br { margin-bottom: 10px;}
+.post br, .pub br { margin-bottom: 10px;}
 
 pre {
   background: #f8f8f8;
@@ -224,7 +224,7 @@ div.related {
   font-weight: normal;
 }
 
-.home_box .post h1 a {
+.home_box .post h1 a, .home_box .pub h2 a {
   font-size: 0.7em;
 }
 

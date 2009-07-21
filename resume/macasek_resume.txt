@@ -1,0 +1,136 @@
+MICHAEL A. MACASEK
+
+macasek@gmail.comhttp://www.macasek.org
+
+17A Forest StApt 31Cambridge, MA 02140(508) 981 - 7728
+
+OBJECTIVE
+I am pursuing the opportunity to lead a team of dedicated engineers, creating 
+software that delivers delight to its users. I am seeking a position, which will 
+allow me to maintain my technical expertise with bleeding edge technologies while 
+continuing to augment my project management skills.
+
+EDUCATION
+Worcester Polytechnic Institute, Worcester, MA
+	December 2005
+	GPA 3.63
+	Masters of Science in Computer Science
+ 
+Wilkes University, Wilkes-Barre, PA
+	May 2003
+	GPA 3.28
+	Bachelor of Science in Computer Science
+
+TECHNICAL SKILLS
+Programming Languages/Frameworks: Ruby on Rails, Ruby, iPhone Development, 
+	Objective-C, HTML, Javascript, AJAX, Dojo Toolkit, Scriptaculous, 
+	Prototype, CSS, SQL, PL/SQL, JAVA, JSP, C/C++, C#, .NET, Python, 
+	Scheme, and Assembly.  Operating Systems: OSX, Windows, LinuxDatabase: Oracle, MySQL, PostgreSQL
+EXPERIENCE
+The MITRE Corporation, Bedford, MA
+	January 2007 - Present	Senior Software System Engineer
+	Utilizing: Ruby, Ruby on Rails, iPhone Development, Objective-C, Java, 
+	J2EE, Struts, Spring, Apache, Mongrel, Capistrano, AJAX, Javascript, 
+	Dojo Toolkit, Scriptaculous, Prototype, HTML, CSS, SQL, and more.	Technical Lead on several corporate wide and customer oriented web 
+	applications, prototypes, and open source initiatives. Actively 
+	participate in all aspects of software design and engineering including 
+	initial requirements gathering to the delivered product. Design and implement 
+	cutting edge web applications to meet customer needs. Developed and 
+	implemented overall system architectures, data models, UI design, and 
+	functional designs. Lead technical staff and mentor new and junior employees.
+
+LimeSurvey – THE Online Survey Software                 
+	September 2007 – September 2008	Developer 	Utilizing: PHP, CakePHP, Apache, SQL, AJAX, Javascript, Dojo Toolkit, 
+	Scriptaculous, Prototype, HTML, and CSS	Developer on LimeSurvey (limesurvey.org), a Open Source Project 
+	hosted on SourceForge.net. Currently leading development of system 
+	redesign for LimeSurvey2.0. 
+
+Teradyne Inc, North Reading, MA    
+	January 2006 - January 2007
+	Software Engineer II
+	Utilizing: .NET, ActiveX, ATL, C#, C++, C, COM, Perl, VB, and
+	VBScript 
+	Develop and maintain software for inline circuit testing equipment. 
+	Participate in architecting next generation software solutions 
+	utilizing the .NET framework. Developing UI and data model 
+	components for next generation software using C#. Maintain legacy 
+	software. Shipped several successful software patches and Phase 1 
+	of the next generation software.                       
+
+Intelligent Tutor Research, The Assistments Project (WPI)
+	August 2004 - December 2005
+	Developer
+	Utilized: AJAX, Apache Tomcat, CSS, HTML, JAVA, JavaScript, JSP, 
+	MySQL, Oracle, PL/SQL, and SQL
+	Maintain and enhance web based Intelligent Tutoring System that 
+	supported approximately 200 to 500 students per day for Worcester, 
+	MA middle and high schools. Design and implement new Web 
+	Applications to further enhance current system using AJAX and JAVA. 
+	Participate in system architecture design. Assist in Oracle 
+	administration. Managed aspects of the project, including: UI 
+	design, database design, runtime, teacher tools, and core data 
+	objects. Mentor for new team members. Observed class usage of 
+	system to evaluate the success of the UI designs.
+
+CEO People Helping People, Wilkes-Barre, PA
+	September 2002 - August 2004
+	Network Administrator
+	Utilized: C++, FoxPro, SQL Server
+
+	Monitor and troubleshoot the company network. Develop support 
+	tools. Develop and maintain websites; both intranet and internet. 
+	Troubleshoot PC issues. Maintain documentation. Database 
+	Administration.
+
+Wilkes University, Wilkes-Barre, PA
+	August 2001 - May 2003
+	Tutor
+
+	Tutored students in a variety of computer science courses.
+
+SalesPlus CorNet, Stroudsburg, PA
+	December 1998 - August 2000
+	
+	IT Services Intern (May 2000 - August 2000)
+	Supervised several major projects, including company wide software 
+	upgrades for a company of approximately 1200 users. Assembled, 
+	monitored, and maintained company’s information system equipment. 
+	Responded to help requests. Assisted in the exploration of new 
+	technologies for company wide use.
+
+	Y2K Support Team Intern (December 1998 - January 2000)
+	Managed Y2K Team and Interns. Reviewed all client code (C++, C, and 
+	VB) for Y2K related bugs. Examined testing documentation, 
+	databases, and verification tests for any date miscalculations. 
+	Reviewed company owned servers and software for possible Y2K 
+	issues. Reported all findings to the appropriate department for 
+	correction.
+
+PUBLICATIONS
+
+Razzaq, Feng, Heffernan, Koedinger, Nuzzo-Jones, Junker, Macasek, Rasmussen, 
+Turner & Walonoski. Blending Assessment and Instructional Assistance. In Nadia 
+Nedjah, Luiza deMacedo Mourelle, Mario Neto Buroges, and Nival Nuesde Almeida 
+(Eds). Intelligent Educational Machines within the Intelligent Systems 
+Engineering Book Series. pp. 23-49. (http://www.isebis.eng.uerj.br/). Springer 
+Berlin / Heidelberg.
+
+Turner T.E., Lourenco A.L.N., Heffernan N.T., Macasek M.A., Nuzzo-Jones G. 
+(2006), The Assistment Builder: An Analysis of ITS Content Creation 
+Lifecycle, The Florida Artificial Intelligence Research Society, Florida, 
+USA.Macasek, M (2005). Towards Teachers Quickly Creating Tutoring Systems. 
+Master thesis.  Worcester Polytechnic Institute.Razzaq, L., Feng, M., Nuzzo-Jones, G., Heffernan, N.T., Koedinger, K. R., 
+Junker, B., Ritter, S., Knight, A., Aniszczyk, C., Choksey, S., Livak, T., 
+Mercado, E., Turner, T.E., Upalekar. R, Walonoski, J.A., Macasek. M.A., 
+Rasmussen, K.P. (2005) The Assistment Project: Blending Assessment and 
+Assisting. The 12th Annual Conference on Artificial Intelligence in 
+Education 2005, AmsterdamTurner, T.E., Macasek, M.A., Nuzzo-Jones, G., Heffernan, N.T., Koedinger, 
+K. (2005). The Assistment Builder: A Rapid Development Tool for ITS. Poster 
+in the 12th Annual Conference on Artificial Intelligence in Education 2005, 
+AmsterdamTurner, T.E., Macasek, M.A., Nuzzo-Jones, G., Heffernan, N.T., Koedinger, 
+K. (2005). The Assistment Builder: A Rapid Development Tool for ITS. Poster 
+in the 12th Annual Conference on Artificial Intelligence in Education 2005 
+Workshop on Adaptive Systems for Web-Based Education: Tools and 
+Reusability, Amsterdam
+ACHIEVEMENTS
+Eagle Scout - 1997
