@@ -1,0 +1,9 @@
+---
+layout: post
+title: All In
+tags:
+  - post:tags=personal
+---
+Well I moved what little content I had from my previous GoDaddy hosting account to my user GitHub Pages page and updated all my relevant domains. As soon as the update trickles though the interwebs I should be all set. Everything went more or less smoothly, I did have a hiccup when I upgraded my GitHub account to a paid account but that was quickly resolved.
+
+Rock on!

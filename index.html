@@ -4,12 +4,13 @@ title: <Insert Clever Title Here>
 ---
 <div class='home_box' id='home_left'>
   <h2><a href='http://feeds.feedburner.com/{{ site.params.feedburner }}' class='float-right'><img src='/images/subscribe-icon.gif' alt='Subscribe'/></a> Latest Blog Post <span class="more">(<a href='/blog.html'>More</a>)</span></h2>
-  
+  {% for post in site.posts limit:5 %}
   <div class='post'>
-    <h1><a href='{{site.posts.first.url}}'>{{site.posts.first.title}}</a></h1>
-    <div class='body'>{{ site.posts.first.content }}</div>
-    <a href='{{site.posts.first.url}}#disqus_thread'>Comments</a>
+    <h1><a href='{{post.url}}'>{{post.title}}</a></h1>
+    <div class='body'>{{ post.content }}</div>
+    <a href='{{post.url}}#disqus_thread'>Comments</a>
   </div>
+  {% endfor %}
 </div>
 <div class="home_box home_right">
   <div class='home_box home_right'>
@@ -18,7 +19,7 @@ title: <Insert Clever Title Here>
   <div class='home_box home_right'>
     <h2 class='home_box_title'>Recent Posts <span class="more">(<a href='/blog.html'>More</a>)<span></h2>
     <div id="latest_posts">
-      {% for post in site.posts limit:4 %}
+      {% for post in site.posts limit:5 %}
       <div class="post_summary">
         <h3><a href="{{post.url}}">{{post.title}}</a></h3>
         <span>({{post.date | date[: '%a, %m.%d.%y']}})</span>
