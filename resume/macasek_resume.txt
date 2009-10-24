@@ -27,8 +27,14 @@ Programming Languages/Frameworks: Ruby on Rails, Ruby, iPhone Development,
 	Prototype, CSS, SQL, PL/SQL, JAVA, JSP, C/C++, C#, .NET, Python, 
 	Scheme, and Assembly.  Operating Systems: OSX, Windows, LinuxDatabase: Oracle, MySQL, PostgreSQL
 EXPERIENCE
+oneforty, Cambridge, MA	
+	2009 - Present
+	Senior Developer, 	Utilizing: Ruby, Ruby on Rails, AJAX, Javascript, JQuery, HTML, CSS, SQL, 
+	Capistrano, nginx, Apache, Mongrel, and more.	Startup building an ecommerce platform for social media applications, 
+	focusing on the Twitter ecosystem.
+
 The MITRE Corporation, Bedford, MA
-	January 2007 - Present	Senior Software System Engineer
+	January 2007 - 2009	Senior Software System Engineer
 	Utilizing: Ruby, Ruby on Rails, iPhone Development, Objective-C, Java, 
 	J2EE, Struts, Spring, Apache, Mongrel, Capistrano, AJAX, Javascript, 
 	Dojo Toolkit, Scriptaculous, Prototype, HTML, CSS, SQL, and more.	Technical Lead on several corporate wide and customer oriented web 
