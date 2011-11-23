@@ -1,63 +1,46 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
- 
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
     <title>{{ site.params.author }} - {{ page.title }}</title>
-    <link rel="stylesheet" href="/stylesheets/master.css" type="text/css" media="screen" charset="utf-8"/>
-    <link rel="stylesheet" href="/stylesheets/syntax.css" type="text/css" media="screen" charset="utf-8"/>
-    <script src="/javascripts/jquery.js" type="text/javascript" charset="utf-8"></script>
-    <script src="/javascripts/jquery.github.js" type="text/javascript" charset="utf-8"></script>
-    <link rel='alternate' type='application/rss+xml' href='http://feeds.feedburner.com/{{ site.params.feedburner }}' />
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+	
+    <link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css" />
+    <link href="stylesheets/cupertino/jquery-ui-1.8.16.custom.css" media="screen" rel="stylesheet" type="text/css" />   
+    <link rel="stylesheet" href="stylesheets/styles.css" />
+    {% if page.css_overrides == 'master' %}
+    {% include master.css_overrides.html %}
+    {% else %}
+    {% include secondary.css_overrides.html %}
+    {% endif %}
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+    <script src="javascripts/json2.js" type="text/javascript"></script>
+    <script src="javascripts/underscore.js" type="text/javascript"></script>
+    <script src="javascripts/backbone.js" type="text/javascript"></script>
+    <script src="javascripts/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+    <script src="javascripts/jquery.pretty.data.js" type="text/javascript"></script>
+    <script src="javascripts/github.js" type="text/javascript"></script>
+    <script src="javascripts/twitter.js" type="text/javascript"></script>
   </head>
   <body>
-    <div id='wrapper'>
-      <div id='header'>
-        <h1>{{ site.params.author }}</h1>
-        <h2>{{ site.title }}</h2>
-      </div>
-      <div id='menu'>
-        <ul>
-          <li><a href='/'>Home</a></li>
-          <li><a href='/blog.html'>Blog</a></li>
-          <li><a href='/about.html'>About</a></li>
-          <li><a href='/projects.html'>Projects</a></li>
-          <li><a href='http://github.com/{{ site.params.github }}' target='_blank' rel='me'>GitHub</a></li>
-          <li><a href='http://www.linkedin.com/in/{{ site.params.linkedin }}' target='_blank' rel='me'>LinkedIn</a></li>
-          <li><a href='http://twitter.com/{{ site.params.twitter }}' target='_blank' rel='me'>Twitter</a></li>
-          <li><a href='http://tumblr.macasek.org/' target='_blank' rel='me'>tumblr</a></li>
-        </ul>
-      </div>
-      <div id='content'>
-        {{ content }}
-        <div class='clearfix'></div>
-      </div>
-    </div>
-    <div id='footer'>
-      Copyright &copy; 2009 {{ site.params.author }}. Theme and code by <a href="http://github.com/mbleigh">Michael Bleigh</a>. Hosted by <a href='http://github.com/{{ site.params.github }}/{{ site.params.github }}.github.com/' target='_blank'>GitHub</a> and powered by <a href='http://github.com/mojombo/jekyll'>Jekyll</a>.
-    </div>
-    <script type="text/javascript">
-          // var disqus_developer = "1"
-          // var disqus_url = "http://localhost:4000{{page.url}}";
-        //<![CDATA[
-        (function() {
-            var links = document.getElementsByTagName('a');
-            var query = '?';
-            for(var i = 0; i < links.length; i++) {
-              if(links[i].href.indexOf('#disqus_thread') >= 0) {
-                query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-              }
-            }
-            document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/{{ site.params.disqus }}/get_num_replies.js' + query + '"></' + 'script>');
-          })();
-        //]]>
-        </script>
+    {% include nav.html %}
+    
+	  <div class="container">
+	    {{ content }}
+
+      <footer>
+        <p>&copy; Michael Macasek 2011. Powered by <a href="http://pages.github.com" target="_blank">Github Pages</a>, <a href="https://github.com/mojombo/jekyll/wiki" target="_blank">Jekyll</a>, <a href="http://documentcloud.github.com/backbone" target="_blank">backbone.js</a>, <a href="http://jquery.com" target="_blank">jQuery</a>, and <a href="http://twitter.github.com/bootstrap" target="_blank">Bootstrap</a>.</p>
+      </footer>
+	  </div>
+
     <script type="text/javascript">
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
       try {
         var pageTracker = _gat._getTracker("{{site.params.google_analytics}}");
         pageTracker._trackPageview();
