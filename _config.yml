@@ -1,14 +1,4 @@
-pygments: true
-permalink: date
-title: "&lt;Insert Clever Title Here&gt;"
+# pygments: true
 params:
   author: Michael Macasek
-  twitter: macasek
-  linkedin: macasek
-  feedburner: macasek
-  github: macasek
-  delicious: macasek
-  disqus: michaelmacaseksblog
-  email: macasek@gmail.com
-  email_username: macasek
   google_analytics: UA-326562-3
