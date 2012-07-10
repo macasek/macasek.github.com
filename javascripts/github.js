@@ -4,7 +4,7 @@ $(function() {
 
     var GitHub = Backbone.Collection.extend({
       model: Project,
-      url: "http://github.com/api/v1/json/macasek?callback=?"
+      url: "https://api.github.com/users/macasek/repos?page=1&per_page=5&callback=?"
     });
   
     var ProjectView = Backbone.View.extend({
