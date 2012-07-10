@@ -92,7 +92,7 @@ $(function() {
             $("#projects").effect("highlight", {color:"#E8F5FB"}, 3000);
             $('ul#project_list', this.el).text("");     
 
-            var repos = data.user.repositories
+            var repos = data.data
             
             // filter out private and empty repos
             repos = _.filter(repos, function(r){ 
