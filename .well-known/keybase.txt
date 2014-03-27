@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/macasek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://macasek.org
+  * I am macasek (https://keybase.io/macasek) on keybase.
+  * I have a public key with fingerprint 8577 408A 709E 230C 9093  D3EC 3E73 E0A6 7A9E 1372
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8577408a709e230c9093d3ec3e73e0a67a9e1372",
+            "host": "keybase.io",
+            "key_id": "3e73e0a67a9e1372",
+            "uid": "e4a7c4176be5fad0f9f75cb7f700a000",
+            "username": "macasek"
+        },
+        "service": {
+            "hostname": "macasek.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1395951655,
+    "expire_in": 157680000,
+    "prev": "7bad11e7c9fa93279a3e3fd3c67e65a15d70107a549e8f34b36278458d2fb7e1",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHvAnicbZFvSBRpHMd3K11ad8kwKDsqmzeusMnMzp9nZ18lZKtGkskVobE9M/PM
+Oqgzu7Prbrb+y4tFxLurOCra80CNi+6IvLxQK0QvM/MfZQlhKvSiFIqrQznsReoz
+Ui+CXg3P9/f5fr+/4Tdo32iymmvOVlROwd6oebT/fZWpmGnKjBGCJlUTnhhRjtY/
+sqL6kR7QFTVMeAg3CwBDuiEgeeSiSZEneVqikUgjQCMScgDyiKKBi3ASZVrIcOAY
+AYZQtqJhDT98ioTVb/BV6wPEQCAyFOAExMpQImVeBqwoABmQJCRJ0gBDSFdhJcJ0
+JRRxdjlR6ySwGFFELMbWm78GsjXdj50BXQtrolaBB2XhcMBj+MLVAQOMIsH3OcIn
+KKqE/xobIkgPKZpKeChMimHFyKRonuVZimNZJ4FOBxQd+RSDYAHnxguSRg2K4Egg
+QImiEBB5GfK0C/CQRrQs0SIHEMdCipUASZEAsgyP3DLNCDTnAm6GdUsuWQCIwv0h
+FFQ1wsPhNaEfR4YUvwrDVToiav/pL91kMltNyUkbjLuZrJtTv1yzYdGy6r3juDa3
+tDKYlHvuh8zIcnd3+a2f1ERKZ7GV+j1ev2MO2f4e/yP+mznjlWvnNPnE2dRwP6ts
+aGLLQPzUd/vUP+d+HZaaR1++q2Ms3qu7Duck3yxO3B458jgw1rw6nZ6xGO8sbdlm
+b5ztmkhKeBtbLm9fyReiQ7ufJvecST2vzXDz9xz5s30FA5MX6FjN2/qFkrR0i2Ug
+2LUwUfjgyt2e4KHvp1vfnDz2bKb2lzx6ZPn1j9ETlyZzj7Y7bPa2PUtbzfNa4YeF
+lL6C0YMfe6c6QvYUIet/R0lRh23yRmud7cDgi0ctf+317U9LWI+P5+V0FQU/ef97
+OHw94+d2Tvr34ljb8zURuBUG
+=3lsp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/macasek
+
+==================================================================
