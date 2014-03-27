@@ -2,4 +2,4 @@
 params:
   author: Michael Macasek
   google_analytics: UA-326562-1
-include: [ ".well-known/keybase.txt" ]
+include: [ '/.well-known/keybase.txt' ]
